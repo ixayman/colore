@@ -1,0 +1,175 @@
+.clear-box
+{
+	clear:both;
+	overflow: hidden;
+}
+header
+{
+	height: 550px;
+	background-image: url(imgs/img01.jpg);
+}
+#title
+{
+	float:left;
+	margin:5px 0 0 10px;
+	font-size:48px;
+}
+header ul
+{
+	float: right;
+	list-style:none;
+	margin-right: 10px;
+}
+header ul li
+{
+	float:left;
+	padding:7px;
+}
+header a
+{
+	text-decoration:none;
+	color:#333;
+}
+header li:hover
+{
+	background-color:blue;
+	 
+}
+header a:hover
+{
+	color:white;
+}
+
+#top-img
+{
+	height:400px;
+	background-image: url(imgs/img02.jpg);
+	margin-top: 40px;
+}
+#content
+{
+	max-width:900px; 
+	margin:0 auto;
+	margin-top:30px;
+}
+.content1
+{
+	float:left;
+	width:30%;
+	margin-right:5%;
+}
+.content1 div
+{
+	margin-bottom:10px;
+}
+.content1 a
+{
+	text-decoration:none;
+	color:white;
+	background-color:blue;
+	margin-top:10px;
+	padding:4px;
+}
+#lastcont
+{
+	margin-right:0 !important;
+}
+#img3
+{
+	background-image: url(imgs/img06.jpg);
+	height:150px;
+}
+
+#img4
+{
+	background-image: url(imgs/img07.jpg);
+	height:150px;
+}
+
+#img5
+{
+	background-image: url(imgs/img08.jpg);
+	height:150px;
+}
+#content div hr
+{
+	margin: 20px 0 20px 0;
+	width:100%;
+}
+#wel
+{
+	width:60%;
+	float:left;
+}
+#wel div:first-child
+{
+	font-size:30px;
+	margin-bottom:10px;
+}
+#wel ul
+{
+	list-style: none;	
+	margin-top: 30px;
+    padding: 0;
+}
+#wel ul li
+{
+	float:left;
+	padding:7px;
+}
+#wel ul a
+{
+	text-decoration:none;
+	color:white;
+	background-color:blue;
+	margin-top:10px;
+	padding:4px;
+}
+#cat
+{
+	float:right;
+	width:30%;
+}
+#cat ul
+{
+	list-style: none;
+	text-decoration: underline;
+}
+#cat ul li
+{
+	padding-bottom:3px;
+}
+#cat ul a
+{
+	color:#333;
+	
+}
+footer
+{
+	background-image: url(imgs/img05.jpg);
+	height: 140px;
+}
+footer div div
+{
+	float:left;
+	width:33%;
+}
+footer div div ul
+{
+	list-style:none;
+}
+footer div ul a
+{
+	text-decoration:none;
+	color:#868686;
+}
+footer div div ul li:first-child
+{
+	font-size:20px;
+	font-weight:bold;
+}
+footer div div ul li:first-child a
+{
+	color:white;
+}
+S
